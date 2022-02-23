@@ -2,4 +2,4 @@
 
 ## to do
 - git commit
-- git push 
+- git push
